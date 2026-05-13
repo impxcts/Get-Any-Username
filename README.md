@@ -9,7 +9,7 @@
 
 ## Here are some of the characters that you can use!
 - Just remember, you will have to copy and paste the character in between the english letters in your game's account details
- (ex. [Epic Games Account](https://accounts.epicgames.com/account)
+- (ex. [Epic Games Account](https://accounts.epicgames.com/account)
 
 ## Characters
 А а
