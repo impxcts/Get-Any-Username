@@ -11,7 +11,7 @@
 - Just remember, you will have to copy and paste the character in between the english letters in your game's account details
 - (ex. [Epic Games Account](https://accounts.epicgames.com/account)
 
-## Characters
+### Characters
 А а
 В
 С с
