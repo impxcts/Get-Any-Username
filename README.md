@@ -33,6 +33,6 @@
 - Use it in the middle/after the first character
 
 - Exclamation mark: " ǃ "
-## Other characters commonly used by other players
+## Other characters commonly used by players
 ち ツ Ψ メ ϟ 父  
 
