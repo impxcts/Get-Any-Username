@@ -8,7 +8,8 @@
 - This will get you the username that you want, but you will have to copy and paste your name if you want to give your username for people to add you since there will already be an existing name most likely (ex. if your name is 'cat' using the cyrillic alphabet, the english name 'cat' will still exist, and a friend could accidentally add the wrong person)
 
 ## Here are some of the characters that you can use!
-- Just remember, you will have to copy and paste the character in between the english letters in your game's account details (ex. [Epic Games Account](https://accounts.epicgames.com/account)
+- Just remember, you will have to copy and paste the character in between the english letters in your game's account details
+ (ex. [Epic Games Account](https://accounts.epicgames.com/account)
 
 ## Characters
 А а
