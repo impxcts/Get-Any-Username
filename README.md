@@ -1,4 +1,4 @@
-# Any Custom Username For Epic-Games, Valve, Riot Games, Discord, PUBG-Mobile, Blizzard, and More!
+# Any Custom Username For Epic-Games, Valve, Riot Games, Discord, Marvel Rivals, PUBG-Mobile, Blizzard, and More!
 - Have you ever wanted a username on your favorite games but always feel like it is taken? Then this repo is exactly what you're looking for!
 ## Disclaimer: As of May 2026, this is NOT BANNABLE! It most likely will never be, but if any game developers change their terms of service, I am not responsible for any account bans or suspensions
 
